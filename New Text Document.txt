@@ -1,0 +1,22 @@
+> objectives need to be change, as perspective from FRONT END
+> Education needs to be fallend down as its not important
+
+> Java line needs to removed. 
+> JS needs to be first line 
+> or React needs to be first line
+> rest xml upore uthbe
+
+
+suggesiotn: 
+> css desing system janle bhalo hoy. = storybook,
+> projects tab upore thake even tech compentence er uproe
+> experience doesnot matter if its under bhaiia 1 years. 
+> docker er bepare.. na janle na lekha... 
+> windows use korle linux mention koiro na 
+> cypress could be in tool tab.. 
+> 
+
+
+> emon kono point na lekhai better jeita... 
+
+
