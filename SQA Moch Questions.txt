@@ -1,0 +1,35 @@
+white box vs black box
+static and dynamic testing and example of it or technique of it
+adhoc testing
+smoke and sanity testing 
+build and release 
+cross browser and corss platform testing 
+how to write the test case
+testing technique
+product backlog and sprint backlog
+what is scrum meeting?
+or scrum ?
+stlc 
+what are models avaiable? 
+v-model
+how do u start functional testing
+what is reggresion testing
+how to write a test case
+what is use case ?
+test scenario vs test case 
+defect lifecycle
+unit, integration, regression, UAT
+test execution
+
+for automation how would you choose test case if multiple is there
+find elment vs find elementS
+close method vs quiter or quit command
+action vs actionS
+how to handle a dropdown/ window
+
+
+constructor vs method 
+overloading vs overrridign
+
+
+
